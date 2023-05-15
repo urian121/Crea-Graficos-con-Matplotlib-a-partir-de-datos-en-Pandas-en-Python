@@ -22,9 +22,8 @@
 
 - pip install mysql-connector-python
 
-#### Crear/Actualizar el fichero requirements.txt:
-
-`pip freeze > requirements.txt`
+#### para correr el proyecto solo debes ejecutar el archivo requirements.txt preferiblemente dentro de tu entorno virtual
+`pip install -r requirements.txt`
 
 #### IMPORTANTE:
 
