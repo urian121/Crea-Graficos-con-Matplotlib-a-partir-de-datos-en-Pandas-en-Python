@@ -66,7 +66,7 @@ def generar_grafica():
         hoja.append(r)
 
     # Se agrega la gráfica al libro de trabajo
-    img = openpyxl.drawing.image.Image('grafica_reporteBD.png')
+    img = openpyxl.drawing.image.Image('grafica.png')
     hoja.add_image(img, 'J5')
 
     # Se guarda el archivo Excel
