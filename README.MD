@@ -1,4 +1,4 @@
-# Genera reportes impresionantes en Excel con Python 🐍 y Pandas
+# Genera reportes en Excel con Graficas usando Matplotlib y Pandas en  Python 🐍
 
 ###### Paso para hacer correr el proyecto;
 
