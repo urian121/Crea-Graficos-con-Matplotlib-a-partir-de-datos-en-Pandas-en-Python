@@ -22,9 +22,6 @@
 
 - pip install mysql-connector-python
 
-#### para correr el proyecto solo debes ejecutar el archivo requirements.txt preferiblemente dentro de tu entorno virtual
-`pip install -r requirements.txt`
-
 #### IMPORTANTE:
 
 ###### Para correr el proyecto solo debes ejecutar el archivo requirements.txt obvio debes haber importado la tabla en tu gestor de BD y haber configurado la conexión, por ultimo ejecutas `pip install -r requirements.txt` ya estando dentro de tu entorno virtual.
